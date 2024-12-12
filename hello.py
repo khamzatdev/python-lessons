@@ -631,15 +631,15 @@ Created on Sat Oct 12 02:52:36 2024
 # else:
 #     print("Bu son juft emas.")
 
-yosh = (input("Yoshingiz nechida?"))
+# yosh = (input("Yoshingiz nechida?"))
 
-if yosh<=4 or yosh>=60:
-    narh = 0
-elif yosh < 18:
-    narh = 10000
-else:
-    narh = 20000
-    print
+# if yosh<=4 or yosh>=60:
+#     narh = 0
+# elif yosh < 18:
+#     narh = 10000
+# else:
+#     narh = 20000
+#     print
 
 
 
