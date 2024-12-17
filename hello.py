@@ -19,6 +19,8 @@ Created on Sat Oct 12 02:52:36 2024
 #print(15/5)
 #print(15//5)
 
+
+git hub repository
 #Bulishda agar bitta bulish belgisidan foydalansa o'nlik  kurinishda chiqadi agar ikkita bulish  belgi bulsa unda butun xolatda chiqaradi
 #Ammo bulishda qoldiq qoladigan bulsa ikkita belgi foydalanilgan xolatda kursatilmaydi faqat butun son kursatiladi
 
