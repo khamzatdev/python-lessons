@@ -25,14 +25,46 @@ Created on Tue Dec 17 20:06:52 2024
 #print(f"Talaba {talaba_1['ism'].title()} {talaba_1['kurs']}-kurs")
 
 #lugatlarni bir necha qatorda yozish
-talabalar = {
-    'ali':'iphone x',
-    'olim':'galaxy s9',
-    'orif':'nokia'
-    }
+# talabalar = {
+#     'ali':'iphone x',
+#     'olim':'galaxy s9',
+#     'orif':'nokia'
+#     }
 # print(talabalar)
 
 #lugatda yuq narsalarni chaqirganda xato bermasligi javob berishi uchun
 #get() metodidan foydalanamiza
-phone = talabalar.get('hasan','bunday odam mavjud emas')
-print(phone)
+# phone = talabalar.get('hasan','bunday odam mavjud emas')
+# print(phone)
+
+
+#Amaliyot
+# otam = {'ism':'mavlutdin','yil':'1954','joy':'samaraqand'}
+# onam = {'ism':'xadicha','yil':'1964','joy':'qarshi'}
+# ukam = {'ism':'olim','yil':'1994','joy':'toshkent'}
+# print(f"Otamning ismi {otam['ism'].title()} u {otam['yil']}-yilda {otam['joy'].title()} shaxrida tugilgan")
+
+taomlar = {
+    'ali':'osh',
+    'orif':'manti',
+    'olim':'lagman',
+    'akmal':'shashlik',
+    'shuxrat':'somsa'
+    }
+taom = taomlar['ali']
+print(f"Alining sevimli taomi {taom}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
