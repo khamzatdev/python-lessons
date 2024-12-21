@@ -44,23 +44,34 @@ Created on Tue Dec 17 20:06:52 2024
 # ukam = {'ism':'olim','yil':'1994','joy':'toshkent'}
 # print(f"Otamning ismi {otam['ism'].title()} u {otam['yil']}-yilda {otam['joy'].title()} shaxrida tugilgan")
 
-taomlar = {
-    'ali':'osh',
-    'orif':'manti',
-    'olim':'lagman',
-    'akmal':'shashlik',
-    'shuxrat':'somsa'
-    }
-taom = taomlar['ali']
-print(f"Alining sevimli taomi {taom}")
+# taomlar = {
+#     'ali':'osh',
+#     'orif':'manti',
+#     'olim':'lagman',
+#     'akmal':'shashlik',
+#     'shuxrat':'somsa'
+#     }
+# ali = taomlar['ali']
+# orif = taomlar['orif']
+# olim = taomlar['olim']
+# print(f"Alining sevimli taomi {ali}, Orifning sevimli taomi {orif}, Olimnig sevimli taomi {olim}")
 
+# python_izohli_lugat = {
+#     'float':'unlik son',
+#     'integer':'butun son',
+#     'string':'matn',
+#     'list':'ruyhat',
+#     'tuple':'uzgarmas ruyhat'
+#     }
+# # print(python_izohli_lugat['tuple'])
 
+# kalit =(input('Kalit suzni kiriting: ').lower())
+# tarjima = python_izohli_lugat.get(kalit , 'Bunday kalit suz yuq')
 
-
-
-
-
-
+# if tarjima == None:
+#     print('Bunday kalit suz yuq')
+# else:
+#     print(f"{kalit.title()} suzi {tarjima} deb tarjima qilinadi")
 
 
 
