@@ -77,7 +77,7 @@ Created on Sat Dec 21 19:54:52 2024
 #     print(user)
 
 #biz SETS ning huddi lugat tuple list kabi ishlatishimiz mumkin lekin uning ichida bir hil narsa ikki marta takrorlanmaydi
-toys = {'ball','toys','car','lamp','ball'}
+# toys = {'ball','toys','car','lamp','ball'}
  
 
 
