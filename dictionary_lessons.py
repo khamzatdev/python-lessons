@@ -80,9 +80,54 @@ Created on Sat Dec 21 19:54:52 2024
 # toys = {'ball','toys','car','lamp','ball'}
  
 
+#Amaliyot
+# python_lugat = {
+#     'Boolean':'Mantiqiy qiymat',
+#     'Float':"O'nlik son",
+#     'For':'Biror amalni qayta bajarish sikli',
+#     'If':'Shartni tugri yoki notugriligini tekshirish',
+#     'Tuple':"O'zgarmas ruyhat",
+#     'String':'Matn',
+#     'Number':'Raqam'
+#     }
+# for key in sorted(python_lugat):
+#     print(key)
 
 
+# davlatlar = {
+#     'uzb':'tashkent',
+#     'rus':'moskva',
+#     'usa':'Washinhton',
+#     'uk':'london'
+#     }
+# davlat = input('Davlatni kiriting: ').lower()
+# poytaxt = davlatlar.get(davlat,"Bu ruyhatda yuq")
 
+# if davlat == None:
+#     print("Bizda bunaqa malumot yuq")
+# else:
+#     print(f"Bu davlat poytaxti {poytaxt.title()}")
+
+# menu = {
+#         'osh':20000,
+#         "lag'mon":22000,
+#         'non':4000,
+#         'choy':5000,
+#         'shashlik':12000,
+#         'somsa':6000,
+#         'tabaka':15000
+#         }
+# print('3 ta taom buyurtma qiling')
+# buyurtmalar = []
+# for n in range(3):
+#     buyurtmalar.append(input (f"{n+1}-taom:").lower())
+    
+# for buyurtma in buyurtmalar:
+#     if buyurtma in menu:
+#         print(f"{buyurtma.title()}{menu[buyurtma]} so'm")
+#     else:
+#         print(f"Kechirasiz {buyurtma} yo'q")
+    
 
 
 
